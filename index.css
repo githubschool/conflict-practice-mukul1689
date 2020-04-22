@@ -16,10 +16,10 @@ body{
 }
 
 a{
-	color: #999;
+	color: #000;
 }
 a:hover{
-	color: #ddd;
+	color: #fff;
 }
 
 #intro_container, #outro_container{
